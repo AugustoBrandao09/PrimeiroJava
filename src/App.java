@@ -24,8 +24,8 @@ public class App {
         System.out.println(bb.executar(vetor, 54, 0, 6)); */   
 
         
-        //String a = JOptionPane.showInputDialog("oi"); 
-        //JOptionPane.showMessageDialog(null,a);    
+        String a = JOptionPane.showInputDialog("oi"); 
+        JOptionPane.showMessageDialog(null,a);    
     }
 
 }
